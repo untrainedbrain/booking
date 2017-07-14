@@ -1,0 +1,4 @@
+perl bookit1.pl
+perl bookit2.pl
+sort errorsText.txt
+cat errorsText.txt

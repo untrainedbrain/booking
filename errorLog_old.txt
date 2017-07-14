@@ -1,0 +1,22 @@
+errorlog #1
+1 BEGIN
+1 Text A
+1 END
+2 BEGIN
+2 Text B
+2 ERROR
+3 BEGIN
+3 Text C
+3 things that went wrong
+3 ERROR
+4 BEGIN
+4 Text D
+4 message 6
+5 BEGIN
+6 BEGIN
+4 text DD
+6 Text F
+4 ERROR
+5 Text E
+6 END
+5 ERROR
